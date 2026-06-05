@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+
+# Claude local settings
+.claude/
+
+# Source docs not part of the deployed site
+*.pdf
